@@ -1,12 +1,13 @@
 import functions_framework
 
 
-ALERT = False
+ALERT = True
 
-ALERT_MESSAGE = """
-Subject: Alert Notification
-This is an alert notification.
-Please take the necessary actions.
+ALERT_MESSAGE = """Hello! Thank you for using Gen-Z for Change's Email Tool.
+We are currently sunsetting this tool and will no longer be supporting it after December 31, 2025
+If you would like to keep up to date with our work, please refer to our website at genzforchange.org
+
+Thank you, keep meddling!
 """
 
 
