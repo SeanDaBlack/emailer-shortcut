@@ -1,7 +1,7 @@
 import functions_framework
 
 
-ALERT = False
+ALERT = True
 
 ALERT_MESSAGE = """Hello! Thank you for using Gen-Z for Change's Email Tool.
 We are currently sunsetting this tool and will no longer be supporting it after December 31, 2025
